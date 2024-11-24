@@ -2,6 +2,12 @@
 
 [Reference Link](https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle&hl=en_IN&pli=1)
 
+
+
+https://github.com/user-attachments/assets/869930cf-3375-41bb-a705-8ef20833a481
+
+
+
 ## Overview
 A web-based sliding puzzle implementation where elements can only move into a single empty cell position. Movement direction is determined by the position of the empty cell relative to each element. The application consists of a dashboard for puzzle creation and a client interface for puzzle solving.
 
