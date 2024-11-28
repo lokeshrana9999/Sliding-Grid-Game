@@ -78,10 +78,21 @@ A web-based sliding puzzle implementation where elements can only move into a si
 1. Admin can create grid with custom cell dimensions
 2. Admin can input numbers, ensuring one empty cell
 3. Admin can input evaluation function
-4. Admin can save and manage puzzles
+4. Admin can save and manage puzzlesz
+
+
+
 
 ### Client
 1. User can load puzzles by ID
 2. User can drag elements into empty cell position
 3. User can submit solution for verification
 4. User can reset puzzle
+
+
+## Multiple spaces approach
+1. Text area above puzzle which takes in a 2d array.
+  a. 2d array can have either numbers or null as elements
+  b. numbers will represent items and null will represent filled spaces
+2. Items can be moved to nearby space.
+3. Items can be moved multiple steps.
