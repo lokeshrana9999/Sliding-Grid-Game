@@ -1,10 +1,10 @@
-# 🚀 AUTODEPLOYMENT ALERT for Mathai Server - March 21, 2025
+# 🚀 AUTODEPLOYMENT Mathai Server - March 21, 2025
 
-## Status: Targated for Tomorrow 2 AM. 🟡
+## Status: Targated for Tomorrow 2 AM. 🔵🔄
 **Start:** 2 AM IST Tomorrow  
 **Expected Completion:** 2:10 PM IST Tomorrow  
 
-## PRs Included in This Deployment
+## 📋 Features
 
 ### 1. Route Organization and Cleanup
 - **Developer:** @lokeshrana
@@ -12,5 +12,5 @@
 - **Testing:** ✅
 - **Reviewers:** @vinaysarda @mithilesh
 
-## 🔍 Track progress and revert: [deployment-dashboard.internal/21032025]
+## 🔍 [Track progress and revert](deployment-dashboard.internal/21032025)
 ## ❓ Issues? Contact @mithilesh @lokeshrana 
