@@ -1,6 +1,6 @@
 # 🚀 AUTODEPLOYMENT ALERT for Mathai Server - March 21, 2025
 
-## Status: Targated for Tomorrow 2 AM.
+## Status: Targated for Tomorrow 2 AM. 🟡
 **Start:** 2 AM IST Tomorrow  
 **Expected Completion:** 2:10 PM IST Tomorrow  
 
